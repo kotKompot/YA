@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_watcher"
+        android:icon="@drawable/ic_watcher"
+        android:title="@string/watcher" />
+
+    <item
+        android:id="@+id/navigation_old"
+        android:icon="@drawable/ic_old"
+        android:title="@string/old" />
+
+    <item
+        android:id="@+id/navigation_fresh"
+        android:icon="@drawable/ic_fresh"
+        android:title="@string/fresh" />
+
+</menu>
